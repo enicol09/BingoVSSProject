@@ -1,0 +1,1 @@
+This is an explanation readme file for BingoVSS. Explains mathematically the functions and the tessts
